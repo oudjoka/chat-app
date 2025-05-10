@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "797299572751",
+    "project_id": "discussion-1ba60",
+    "storage_bucket": "discussion-1ba60.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:797299572751:android:a0a769280953352107237a",
+        "android_client_info": {
+          "package_name": "com.example.discussion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBuxNpzoBG08TsxYoBuirscH2NIU-2nbkA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
